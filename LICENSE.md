@@ -1,4 +1,4 @@
-CC BY License
+CC BY 4.0 License
 
 Copyright (c) 2018 Catherine DeRose
 
