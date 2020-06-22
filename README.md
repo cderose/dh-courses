@@ -2,7 +2,7 @@
 
 Slides from select presentations and workshops  
 
-2019-06 | [From Getting Started with Data, Tools, and Platforms](https://github.com/cderose/Slides-and-Syllabi/tree/master/2019-06_HILT), Humanities Intensive Learning and Teaching (HILT) class, slides  
+2019-06 | [From Getting Started with Data, Tools, and Platforms](https://github.com/cderose/Slides-and-Syllabi/tree/master/2019-06_HILT), Humanities Intensive Learning and Teaching (HILT) 
 2019-04-26 | [Neural Style Transfer: Kandinsky to Kandisnky](https://github.com/cderose/Presentations/blob/master/2019-04-26_DeRose_Neural_Style_Yale_Smithsonian.zip)  
 2018-02-24 | [User-Centered Design at DHU3](https://github.com/cderose/Presentations/blob/master/DeRose_DHU3_slides.zip)   
 
