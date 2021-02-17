@@ -10,7 +10,7 @@ Slides from select presentations and workshops
 
 Syllabi and slides from select DH classes  
 
-2021-02-01 | [YData: Humanities Data Mining](https://github.com/YaleDHLab/humanities-data-mining)  
+2021-02-01 | [YData: Humanities Data Mining](https://github.com/YaleDHLab/humanities-data-mining), 1-credit undergraduate and graduate student course taught in Yale's Department of Statistics and Data Science  
 2019-03 | [From Text Mining to Mapping: Digital Humanities Methods](https://github.com/cderose/Slides-and-Syllabi/blob/master/2019-03_DeRose_Yale-NUS.pdf), 1-credit undergraduate class at Yale-NUS, syllabus  
 2018-08 | [Texts, Maps, and Networks: Introduction to Digital Humanities](https://github.com/cderose/Slides-and-Syllabi/blob/master/2018-08_DeRose_CalRBS.pdf), California Rare Book School class, syllabus
 
