@@ -6,21 +6,21 @@
 While Tableau runs locally, it saves publicly—meaning your data becomes public. For data with privacy restrictions, you should use Tableau Desktop, which saves to your local machine. [Students](https://www.tableau.com/academic/students?utm_campaign_id=2019176&utm_campaign=Prospecting-PROD-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=USCA&kw=tableau%20for%20students&adgroup=CTX-Brand-Student-E&adused=RSA&matchtype=e&placement=&gclid=EAIaIQobChMI4uyd9faW6gIVkYbACh2MZgwNEAAYASAAEgIG6PD_BwE&gclsrc=aw.ds) and [educators](https://www.tableau.com/academic/teaching?utm_campaign_id=2019176&utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=USCA&kw=%2Btableau%20for%20%2Bteachers&adgroup=CTX-Brand-Teaching-B&adused=ETA&matchtype=b&placement=&gclid=EAIaIQobChMIp5Spi_eW6gIVycDACh2PAQkjEAAYASAAEgLwKvD_BwE&gclsrc=aw.ds) can sign up for free yearly licenses to Tableau Desktop.
 
 ## Example Project: Internet Users by Country
-To practice working in Tableau Public, download this [dataset of internet users per 100 people](https://github.com/YaleDHLab/humanities-data-mining/tree/master/data/internet-users.csv) by going to the dataset, clicking "Raw," and then at the top of your browser, select "File" and "Save Page As..." Make sure that the file format saves as a comma separated value (CSV) file. Tableau Public published this dataset in 2018, but it was originally published on [Knoema](https://knoema.com/WBINU2018/internet-users-per-100-people). The spreadsheet includes 3 variables or columns ("Country," "Internet users per 100 people," "Year") and 1,764 records or rows.
+To practice working in Tableau Public, download this [dataset of internet users per 100 people](https://github.com/YaleDHLab/humanities-data-mining/tree/master/data/internet-users.csv) by going to the dataset, clicking "Raw," and then at the top of your browser, select "File" and "Save Page As..." Make sure that the file format saves as a comma separated value (CSV) file. Tableau Public shared this dataset in 2018, but it was originally published on [Knoema](https://knoema.com/WBINU2018/internet-users-per-100-people). The spreadsheet includes 3 variables or columns ("Country," "Internet users per 100 people," "Year") and 1,764 records or rows.
 
-As a sample research scenario, let's imagine that someone just handed us this data. To get a better feel for its quality and what questions we might ask of it, we can create a few exploratory visualizations in Tableau Public. [A completed copy](https://public.tableau.com/profile/catherine.derose#!/vizhome/YDataInternetUsers/dashboard) of the Tableau workbook we're about to create can be found on Tableau Public.
+As a sample research scenario, let's imagine that someone just handed us this data. To get a better feel for its quality and what questions we might ask of it, we can create a few exploratory visualizations in Tableau Public. [A completed copy](https://public.tableau.com/profile/catherine.derose#!/vizhome/YDataInternetUsers/dashboard) of the workbook we're about to create can be found on Tableau Public.
 
 ### Set Up
 1. [Download, install, and then open Tableau Public](https://public.tableau.com/en-us/s/).
-2. Under "Connect" in the left-hand column, click on "Text file" and select the Tate artists CSV file. This will load a preview of the dataset, which lets us see how Tableau is interpreting our data.
-3. Review Tableau's interpretation of our data. The symbol at the top of the header represents what data type it thinks each column contains:
+2. Under "Connect" in the left-hand column, click on "Text file" and select the internet users CSV file. Tableau will load a preview of the dataset, which lets us see how it is interpreting our data.
+3. Review Tableau's interpretation. The symbol at the top of the header represents what data type it thinks each column contains:
 - Abc = string (text) data,
 - Globe = geospatial data, 
 - Calendar = temporal data, 
-- Hashtag = numeric data, 
+- Hash symbol = numeric data, 
 - T|F = Boolean (true or false) data. 
  
-For our dataset, we need to change the "Year" column from a numeric value to a date. To do so, click on the hash symbol above "Year" and select "Date." You should notice that all of our years now also have a month and day prefixed to them; by default, Tableau treats dates as month-day-year, so it adds a generic 1/1/ to the beginning of our year.
+For our dataset, we need to change the "Year" column from a numeric value to a date. To do so, click on the hash symbol above "Year" and select "Date." You should notice that all of our years now also have a month and day prefixed to them; by default, Tableau treats dates as month-day-year, so it adds a generic 1/1/ to the beginning of our years.
 
 4. To begin working with our data, click on the orange "Sheet 1" rectangle toward the bottom left-hand corner of the application. This will create our first Tableau worksheet, a blank space for generating visualizations.
 
@@ -34,7 +34,7 @@ Tableau version 2020.2 underwent major interface and functionality changes. You 
 
 #### Tableau Version 2020.2
 - On the left-hand column, Tableau now groups data as "Tables." While Tableau no longer explicitly calls out "Dimensions" and "Measures," there is a horizontal line that separates categorical and numeric data.
-- Tableau still generates two fields: "Measure Values" (sum of all values) and the previously named "Number of Records," which now takes the name of your file.
+- Tableau still generates two fields: "Measure Values" (sum of all values) and a field named after our file (it was formerly labeled "Number of Records").
 
 #### Interface Interactions 
 Double-clicking or dragging any dimension or measure over to the "Columns" and "Rows" sections near the middle-top of the sheet will give you the opportunity to examine the data more closely. You can use the back arrow at the top left to undo actions.  
@@ -51,7 +51,7 @@ With this dataset, we can see how internet adoption has changed by country over 
 4. Question: if our dataset is internet users per 100 people, then why does Iceland show 708.8 users?
 <details><summary>Answer</summary>
 <p>
-Tableau is summing all values that correspond with an "Iceland" row, regardless of whether they record is for a different date. To see internet users per 100 people, we need to add a year filter.
+Tableau is summing all values that correspond with an "Iceland" row, regardless of the date. To see internet users per 100 people, we need to add a year filter.
 </p>
 </details>
 5. Create the year filter by dragging "Year" to the "Filters" card. 
@@ -66,8 +66,8 @@ Tableau is summing all values that correspond with an "Iceland" row, regardless 
 In 1990, the United States, Norway, Switzerland, Australia, and Sweden had the most internet users per 100 people. By 2015, the top 5 changed to: Iceland, Luxembourg, Andorra, Norway, and Liechtenstein. Only Norway appears in the top 5 twice!
 </p>
 </details>
-7. If we want to focus only the top countries in terms of internet adoption, we can add a country filter by dragging "Country" to the "Filters" card. This time, select the countries of interest. If we'd like to compare greatest number of users in 1990 to 2015, we should select: the United States, Norway, Switzerland, Australia, Sweden, Iceland, Luxembourg, Andorra, and Liechtenstein. You can choose whichever countries are of interest to you!
-8. Give a title to the chart by double clicking on the current "Sheet 1" title and inserting "Internet Users per 100 People." You can also change the styling, if you want a different typeface or font.Click "Apply" to see what the title will look like. When you're finished, click "Ok."
+7. If we want to focus on only the top countries in terms of internet adoption, we can add a country filter by dragging "Country" to the "Filters" card. This time, select the desired countries. If we'd like to compare greatest number of users in 1990 to 2015, we should select: the United States, Norway, Switzerland, Australia, Sweden, Iceland, Luxembourg, Andorra, and Liechtenstein. You can choose whichever countries are of interest to you!
+8. Give a title to the chart by double clicking on the current "Sheet 1" title and inserting "Internet Users per 100 People." You can also change the styling, if you want a different typeface or font. Click "Apply" to see what the title will look like. When you're finished, click "Ok."
 9. Change the "Sheet 1" name in the lower left-hand corner by double clicking on it and renaming it "bar chart."
 
 ### Line Graph: Change over Time
@@ -85,18 +85,18 @@ In 1990, the United States, Norway, Switzerland, Australia, and Sweden had the m
 1. Start a new sheet.
 2. Double-click on the "Country" pill, which will automatically generate a map.
 3. Click to turn on "Show Me" and select the second map, which we will use to generate a choropleth map.
-4. Notice that not all countries are filled in on the map. Click on "3 unknown" in the lower right-hand corner of the map to give Tableau a mapping between country names as they appear in our dataset, and country names that Tableau knows. 
+4. Notice that not all countries are filled in on the map. Click on "3 unknown" in the lower right-hand corner of the map to give Tableau a mapping between country names as they appear in our dataset and country names that Tableau knows. 
 - Dem. People's Rep. Korea to North Korea,
 - Dem. Rep. Congo to Democratic Republic of Congo,
 - Korea to South Korea.
-5. Drag "Internet users" over the "Color" mark, which will shade each country according to the number of internet users—by default, Tableau will again aggregate this count.
+5. Drag "Internet users" over the "Color" mark, which will shade each country according to the number of internet users — by default, Tableau will again aggregate this count.
 6. To filter by year while also adding animation to the map, drag "Year" to "Pages" (instead of "Filter").
-7. Let's give the map a title. Delete sheet name (but keep "<Page Name>") and add: "Internet Users per 100 People in:" before the "<Page Name>," which will automatically fill in the title with whatever year is selected.
+7. Give the map a title. Delete sheet name (but keep "<Page Name>") and add: "Internet Users per 100 People in:" before the "<Page Name>." Tableau will automatically fill in <Page Name> with whatever year is selected.
 8. Rename the sheet to "map."
 
-### Data Dashboard: Combine Visualizations Together
+### Data Dashboard: Bring Visualizations Together
 1. Start a data dashboard by clicking on the icon next to the sheet icon.
-2. Adjust the size of the dashboard by clicking on the dropdown under "Size" in the left-hand column. This enables you to re-size for the device(s) your designing for. To have the dashboard take up the size of the screen you're using, click the size dropdown and then click the dropdown by "Range" and select "Automatic."
+2. Adjust the size of the dashboard by clicking on the dropdown under "Size" in the left-hand column. This enables you to re-size for the device(s) you're designing for. To have the dashboard take up the size of the screen you're using, click the size dropdown and then click the dropdown by "Range" and select "Automatic."
 3. Double click on the sheet names in the left-hand column to add them to the dashboard (I would start with the map). You can also drag and drop. Practice re-arranging them on the dashboard.
 4. To make the dashboard even more dynamic and informative, let's add a component that links out to the Wikipedia page for whichever country a user selects.
 - Drag a "Web Page" object onto the dashboard and click "Ok" without adding a URL. 
@@ -106,7 +106,7 @@ In 1990, the United States, Norway, Switzerland, Australia, and Sweden had the m
 - For URL, add: "https://en.wikipedia.org/wiki/" and then click on the triangle button and select "Country."
 - Click "Test Link" to see if it's working.
 - Click "Ok" and "Ok" again to add the action.
-- Hover on any data point in the dashboard, and the Wikipedia page should automatically update to reflect the country that's selected. ![Dashboard View](https://github.com/cderose/Slides-Syllabi-Workshops/blob/master/tableau-workshop/image/tableauDashboard.png)
+- Now when you hover over any data point in the dashboard, the Wikipedia page should automatically update to reflect the country that's selected. ![Dashboard View](https://github.com/cderose/Slides-Syllabi-Workshops/blob/master/tableau-workshop/image/tableauDashboard.png)
 
 ### Save Your Work
 To save your Tableau workbook, you have to create a free Tableau account. When you click save, you will be prompted to log in and save your workbook to Tableau's server, where it will be visible on Tableau Public. Users can interact with your workbook on Tableau Public, or they could download, add to, or otherwise edit it.
@@ -114,14 +114,14 @@ To save your Tableau workbook, you have to create a free Tableau account. When y
 ## Bonus
 
 ### Animated Bar Chart: Internet Adoption Revisited
-1. Let's learn a bit more about animations in Tableau so that we can create more dynamic graphs. Start creating a new sheet.
-2. In our bar chart, we highlighted the countries with the highest number of internet users. If we want to dynamically watching the country order change over time, we have to set up a rank field. To do so, right-click near the bottom of the "Tables" column and select: "Create Calculated Field."
-3. For the title of the Calculate Field, type "Rank". The syntax for a rank calculation is: ```RANK_UNIQUE(sum([Internet users per 100 people]))``` If you Google Tableau and the kind of task you're looking to perform, you'll find tutorials with many different types of calculations you can create. Once you've added the calculation for rank, click "Ok."
+1. Let's learn a bit more about animations in Tableau so that we can create more dynamic graphs. Start by creating a new sheet.
+2. In our bar chart, we highlighted the countries with the highest number of internet users. If we want to watch the country order change dynamically over time, we have to set up a rank field. To do so, right-click near the bottom of the "Tables" column and select: "Create Calculated Field."
+3. For the title of the Calculate Field, type "Rank". The syntax for a rank calculation is: ```RANK_UNIQUE(sum([Internet users per 100 people]))``` If you Google Tableau and the kind of task you're looking to perform, you'll find tutorials on many of the different types of calculations you can create. Once you've added the calculation for rank, click "Ok."
 4. Drag the new "Rank" measure to "Rows."
 5. Add "Country" to the "Detail" mark.
 6. Go back to the "Rank" pill in "Rows" and change the data from "Continuous" to "Discrete."
 7. Drag "Internet users" to "Columns."
-8. Go back to the "Rank" pill in "Rows" and choose "Computer Using" -> "Country."
+8. Go back to the "Rank" pill in "Rows" and choose "Compute Using" -> "Country."
 9. Drag "Year" into the "Pages" section, which will activate the animation.
 10. To add country instead of ranking as the label: go to "Rank" and deselect "Show Header." Next, drag "Country" over the "Label" mark. To stylize the label, click on the "Label" mark - from here, you can change the "Label Appearance" (type, font) and "Alignment" (where the label appears).
 11. To add a color scheme, drag "Internet Users" over the "Color" mark. You can more precisely adjust the colors by clicking on the dropdown beside "Internet Users" in the right-hand column.
@@ -130,4 +130,4 @@ To save your Tableau workbook, you have to create a free Tableau account. When y
 ## Next Steps, Cautions, & Additional Tips
 * To learn about joining multiple datasets, creating data stories, running calculations, and managing a Tableau server, watch Tableau's free [online training videos](https://www.tableau.com/learn/training/20201).
 * Word of caution: Tableau frequently has updates available, but they're not always backwards compatible. For that reason, you might not want to update to the newest version while you're in the middle of a project.
-* For additional practice and open datasets, check out [#MakeoverMonday](https://www.makeovermonday.co.uk/). Every week, Tableau shares a dataset and starter visualization, and challenges participants to remake it. You can find the results and share your own remakes on [Twitter](https://twitter.com/hashtag/makeovermonday?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag). Better yet, if you see a makeover visualization you like, try downloading the workbook from Tableau Public to see how it was made!
+* For additional practice and open datasets, check out [#MakeoverMonday](https://www.makeovermonday.co.uk/). Every week, Tableau shares a dataset and starter visualization, challenging participants to remake it. You can find the results and share your own remakes on [Twitter](https://twitter.com/hashtag/makeovermonday?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag). Better yet, if you see a makeover visualization someone else created that you like, try downloading the workbook from Tableau Public to see how they made it!
