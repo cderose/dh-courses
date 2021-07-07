@@ -6,12 +6,14 @@ Materials from my semester-long courses
 # Workshops & Presentations
 Materials from my workshops and presentations
 
+2021-06-17 | [Introduction to Python](https://colab.research.google.com/drive/13yQwUstbUoz7zPkhFYtQwgskNfqn2fQp?usp=sharing), taught for Yale DHLab
 2021-02-18 | [Data Visualization with Tableau Public](https://github.com/cderose/Slides-Syllabi-Workshops/blob/master/tableau-workshop/README.md), taught for Yale DHLab  
 2020-10-29 | [Getting Started with Networks](https://github.com/cderose/Slides-Syllabi-Workshops/tree/master/networks), taught for Yale DHLab  
 2020-06-02 | [Guide to Getting Started with Tropy](https://github.com/cderose/Slides-Syllabi-Workshops/tree/master/portable-tropy), taught for Yale DHLab  
 2020-02-27 | [Neural Style Transfer with RunwayML](https://github.com/cderose/Slides-Syllabi-Workshops/tree/master/neural-style-transfer), taught for Yale DHLab  
-2019-06 | [From Getting Started with Data, Tools, and Platforms](https://github.com/cderose/Slides-and-Syllabi/tree/master/2019-06_HILT) for [HILT institute](https://dhtraining.org/hilt/course/getting-started-with-data-tools-and-platforms-2019/)   
+2019-06-03 | [From Getting Started with Data, Tools, and Platforms](https://github.com/cderose/Slides-and-Syllabi/tree/master/2019-06_HILT) for [HILT institute](https://dhtraining.org/hilt/course/getting-started-with-data-tools-and-platforms-2019/)   
 2019-04-26 | [Neural Style Transfer: Kandinsky to Kandisnky](https://github.com/cderose/Presentations/blob/master/2019-04-26_DeRose_Neural_Style_Yale_Smithsonian.zip)  
+2018-03-26 | [Creating a Website with GitHub Pages](https://github.com/cderose/Slides-Syllabi-Workshops/tree/master/github-pages)   
 2018-02-24 | [User-Centered Design](https://github.com/cderose/Presentations/blob/master/DeRose_DHU3_slides.zip) for 3rd Digital Humanities Utah keynote  
 2017-10-17 | [Introduction to Story Maps](https://github.com/cderose/Slides-Syllabi-Workshops/tree/master/story-maps)
 
