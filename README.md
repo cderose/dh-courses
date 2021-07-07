@@ -6,7 +6,7 @@ Materials from my semester-long courses
 # Workshops & Presentations
 Materials from my workshops and presentations
 
-2021-06-17 | [Introduction to Python](https://colab.research.google.com/drive/13yQwUstbUoz7zPkhFYtQwgskNfqn2fQp?usp=sharing), taught for Yale DHLab
+2021-06-17 | [Introduction to Python](https://colab.research.google.com/drive/13yQwUstbUoz7zPkhFYtQwgskNfqn2fQp?usp=sharing), taught for Yale DHLab  
 2021-02-18 | [Data Visualization with Tableau Public](https://github.com/cderose/Slides-Syllabi-Workshops/blob/master/tableau-workshop/README.md), taught for Yale DHLab  
 2020-10-29 | [Getting Started with Networks](https://github.com/cderose/Slides-Syllabi-Workshops/tree/master/networks), taught for Yale DHLab  
 2020-06-02 | [Guide to Getting Started with Tropy](https://github.com/cderose/Slides-Syllabi-Workshops/tree/master/portable-tropy), taught for Yale DHLab  
