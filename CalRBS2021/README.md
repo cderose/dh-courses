@@ -2,7 +2,7 @@
 
 This repository contains materials for a course taught for the California Rare Book School in summer 2021.
 
-The course materials are published under a CC BY 3.0 US license. Attribution should be given to Dr. Catherine DeRose.
+The course materials are published under a CC BY 4.0 US license. Attribution should be given to Dr. Catherine DeRose.
 
 ## Day 1: Data in the Humanities
 
