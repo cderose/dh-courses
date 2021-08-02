@@ -19,5 +19,5 @@ Next Level: [Programming Historian Lesson on Fetching Data with OpenRefine](http
 
 In our second day, we will consider strategies and best practices for visualizing data that take into account what kind of data we have, who we have in mind as our audience, what story we're aiming to tell, and where we think the visualization will circulate. We'll also get hands-on experience producing data visualizations with Tableau Public.
 
-Reading: ["Feminist Data Visualization"](https://github.com/cderose/dh-courses/blob/master/CalRBS2021/readings/02_FeministDataVis_KleinDIgnazio.pdf)
+Reading: ["Feminist Data Visualization"](https://github.com/cderose/dh-courses/blob/master/CalRBS2021/readings/02_FeministDataVis_KleinDIgnazio.pdf)  
 Workshop: [Tableau Public](https://public.tableau.com/en-us/s/)
