@@ -10,5 +10,7 @@ In our first day, we will discuss the digital humanities (DH) generally, with a 
 
 Reading: ["Big? Smart? Clean? Messy? Data in the Humanities"](https://github.com/cderose/dh-courses/blob/master/CalRBS2021/readings/01_DataInTheHumanities_Schoch.pdf)    
 Slides: [Data in the Humanities](https://docs.google.com/presentation/d/1nchM1Zhf9YrPaoFBwyVDroq-Kd1DuSI1HWqWWQZbOXQ/edit?usp=sharing)  
-Workshop: [OpenRefine](https://openrefine.org/)  
-Practice: [Library Carpentry OpenRefine](https://librarycarpentry.org/lc-open-refine/)
+Workshop: [OpenRefine](https://openrefine.org/) 
+
+Practice: [Library Carpentry OpenRefine](https://librarycarpentry.org/lc-open-refine/), [British Library Workshop](http://www.meanboyfriend.com/overdue_ideas/wp-content/uploads/2014/11/Introduction-to-OpenRefine-handout-CC-BY.pdf)  
+Next Level: [Programming Historian Lesson on Fetching Data with OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine)
