@@ -27,3 +27,14 @@ Dataset: [tableau-goodreads.csv](https://drive.google.com/drive/folders/12WIcs0y
 
 Follow-up Reading: [Data Feminism](https://data-feminism.mitpress.mit.edu/)  
 Practice: [Tableau Training Videos](https://www.tableau.com/learn/training/20212), [Makeover Monday](https://www.makeovermonday.co.uk/data/), [Raw Graphs](https://rawgraphs.io/)
+
+## Day 3: Text Analysis
+
+In our third day, we will cover computational text analysis (what it is, why it might be useful, what to watch out for). While we will survey a number of approaches and tools, we will focus our workshop on Named Entity Recognition in particular as that can be helpful for creating datasets that you might want to use later in the week.
+
+Reading: [Seven Ways Humanists are Using Computers to Understand Text](https://github.com/cderose/dh-courses/blob/master/CalRBS2021/readings/03_SevenWays_Underwood.pdf)  
+Slides: [Text Analysis](https://docs.google.com/presentation/d/1tMlaNo0w5CY3cPRUaEtJljTCMiWT6rlg2ubVL2btddw/edit?usp=sharing)   
+Workshop:[NER Notebook](https://colab.research.google.com/drive/1uKHlm6lIp6n6edb8BpeC_3GrQp7yfdtQ?usp=sharing)   
+NER Output: [ner-location-counts.csv](https://drive.google.com/drive/folders/12WIcs0ykyBd0FGZ25z2VklfbPBxwCXfR?usp=sharing)
+
+Practice: [DataBasic.io](https://databasic.io/en/), [Voyant](https://voyant-tools.org/), [AntConc](https://www.laurenceanthony.net/software/antconc/) - [(tutorial)](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)
