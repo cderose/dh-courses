@@ -26,7 +26,8 @@ Workshop: [Tableau Public](https://public.tableau.com/en-us/s/)
 Dataset: [tableau-goodreads.csv](https://drive.google.com/drive/folders/12WIcs0ykyBd0FGZ25z2VklfbPBxwCXfR?usp=sharing)
 
 Follow-up Reading: [Data Feminism](https://data-feminism.mitpress.mit.edu/)  
-Practice: [Tableau Training Videos](https://www.tableau.com/learn/training/20212), [Makeover Monday](https://www.makeovermonday.co.uk/data/), [Raw Graphs](https://rawgraphs.io/)
+Practice: [Tableau Training Videos](https://www.tableau.com/learn/training/20212), [Makeover Monday](https://www.makeovermonday.co.uk/data/)   
+Other Tool: [Raw Graphs](https://rawgraphs.io/)
 
 ## Day 3: Text Analysis
 
@@ -38,3 +39,15 @@ Workshop:[NER Notebook](https://colab.research.google.com/drive/1uKHlm6lIp6n6edb
 NER Output: [ner-location-counts.csv](https://drive.google.com/drive/folders/12WIcs0ykyBd0FGZ25z2VklfbPBxwCXfR?usp=sharing)
 
 Practice: [DataBasic.io](https://databasic.io/en/), [Voyant](https://voyant-tools.org/), [AntConc](https://www.laurenceanthony.net/software/antconc/) - [(tutorial)](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)
+
+## Day 4: Network Analysis
+
+In our fourth day, we will continue our closer look at digital humanities methods by turning to networks. As with text analysis, we will start by discussing what networks are and when and why they might be useful. We will then create a dynamic network graph using Gephi.
+
+Reading: ["Network Theory, Plot Analysis"](https://github.com/cderose/dh-courses/blob/master/CalRBS2021/readings/04_NetworkTheory_LitLab.pdf)   
+Slides: [Network Analysis](https://github.com/cderose/dh-courses/blob/master/CalRBS2021/tutorials/networks.md)   
+Workshop: [Gephi](https://gephi.org/)  
+Dataset: [networks-rj-nodes.csv and networks-rj-edges.csv](https://drive.google.com/drive/folders/12WIcs0ykyBd0FGZ25z2VklfbPBxwCXfR?usp=sharing)
+
+Follow-up Reading: [The Network Turn](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5)  
+Other tool: [Palladio](https://hdlab.stanford.edu/palladio/)
