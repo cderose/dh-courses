@@ -108,8 +108,3 @@ Networks take (or create) two kinds of lists:
 Below is a snippet of the node and edge list that we used to create the Marvel movies network. Each character was given a unique ID (which prevents confusion if characters share the same name) that was used in both the node and edge lists.
 
 <p align="center"><img width="700" height="450" src="https://github.com/YaleDHLab/lab-workshops/blob/master/networks/images/data-node-edge-lists.png"></br>Marvel Movies Node and Edge List</p>
-
-
-## Going Further with NetworkX
-
-To get started building custom networks with NetworkX in Python, explore the DHLab's [Introduction to NetworkX Notebook](https://colab.research.google.com/drive/1dfh9kZVHTKve9BS_hIn9tit9oZkeihCS?usp=sharing).
