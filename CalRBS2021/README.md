@@ -59,7 +59,7 @@ In our fifth day, we will look at what we could do with geographic data, from ho
 Reading: ["The True Colors of America's Political Spectrum Are Gray and Green"](https://github.com/cderose/dh-courses/blob/master/CalRBS2021/readings/05_True%20Colors_WallaceKarra.pdf)  
 Workshop: [ArcGIS Online](https://www.arcgis.com/index.html), [StoryMaps](https://storymaps.arcgis.com/)  
 
-Further Reading: [The Statute of Anne and the Geography of English Printing](https://earlybookmarket.com/printing-geography.html)   
+Further Reading: ["The Statute of Anne and the Geography of English Printing"](https://earlybookmarket.com/printing-geography.html)   
 Other Tool: [Georeferencer](https://www.georeferencer.com/)   
 Tutorial: [Building a Static Website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 
