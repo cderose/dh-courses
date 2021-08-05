@@ -25,7 +25,7 @@ Slides: [Data Visualization in the Humanities](https://docs.google.com/presentat
 Workshop: [Tableau Public](https://public.tableau.com/en-us/s/), [tutorial](https://github.com/cderose/dh-courses/blob/master/CalRBS2021/tutorials/tableau-tutorial.md), [finished workbook](https://public.tableau.com/app/profile/catherine.derose/viz/GoodreadsBooks-CalRBS/animatedbarchartofratingsbygenre)  
 Dataset: [tableau-goodreads.csv](https://drive.google.com/drive/folders/12WIcs0ykyBd0FGZ25z2VklfbPBxwCXfR?usp=sharing)
 
-Follow-up Reading: [Data Feminism](https://data-feminism.mitpress.mit.edu/)  
+Further Reading: [Data Feminism](https://data-feminism.mitpress.mit.edu/)  
 Practice: [Tableau Training Videos](https://www.tableau.com/learn/training/20212), [Makeover Monday](https://www.makeovermonday.co.uk/data/)   
 Other Tool: [Raw Graphs](https://rawgraphs.io/)
 
@@ -49,5 +49,16 @@ Slides: [Network Analysis](https://github.com/cderose/dh-courses/blob/master/Cal
 Workshop: [Gephi](https://gephi.org/)  
 Dataset: [networks-rj-nodes.csv and networks-rj-edges.csv](https://drive.google.com/drive/folders/12WIcs0ykyBd0FGZ25z2VklfbPBxwCXfR?usp=sharing)
 
-Follow-up Reading: [The Network Turn](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5)  
-Other tool: [Palladio](https://hdlab.stanford.edu/palladio/)
+Further Reading: [The Network Turn](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5)  
+Other tool: [Palladio](https://hdlab.stanford.edu/palladio/)  
+
+## Day 5: Spatial Analysis & Publishing
+
+In our fifth day, we will look at what we could do with geographic data, from how we can collect it to ways we might visualize it. As a capstone to our week, we will also discuss how we can share digital projects online.
+
+Reading: ["The True Colors of America's Political Spectrum Are Gray and Green"](https://github.com/cderose/dh-courses/blob/master/CalRBS2021/readings/05_True%20Colors_WallaceKarra.pdf)  
+Workshop: [ArcGIS Online](https://www.arcgis.com/index.html), [StoryMaps](https://storymaps.arcgis.com/)  
+
+Other Tool: [Georeferencer](https://www.georeferencer.com/)
+
+
