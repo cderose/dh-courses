@@ -102,6 +102,10 @@ Networks are good for seeing underlying structures in your data — key players,
 - <a href='http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network' target='_blank'>Six Degrees of Sir Francis Bacon</a>
 - <a href='http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network' target='_blank'>The Inner Life of Empires</a> by Ian Kumekawa and Emma Rothschild
 
+When looking at the above network graphs, consider: 
+- What kinds of questions can we explore with networks that we couldn't with text analysis?
+- How was the data collected? Is it available for other researchers to use?
+- What are the visualizations like? How intuitive (or not) are they, and how much explanation or guidance does the project offer?
 
 ## How do we prepare our data?
 Networks take (or create) two kinds of lists:
