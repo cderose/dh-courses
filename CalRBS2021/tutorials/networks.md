@@ -88,8 +88,6 @@ Nodes that are completely separate from the graph are called **isolates**. In ge
 ## Why might we use networks?
 Networks are good for seeing underlying structures in your data — key players, weak spots, patterns. We can use networks to test and nuance our assumptions. For a few use cases:
 
-- <a href='http://www.datasketch.es/october/code/nadieh/' target='_blank'>Royal Constellations</a> by Nadieh Bremer
-
 - <a href='http://republicofletters.stanford.edu/casestudies/franklin.html' target='_blank'>Visualizing Benjamin Franklin's Correspondence Network</a> in Mapping the Republic of Letters
 
 - Gendered Critique of Marvel Movies (circa 2017) Network
@@ -99,6 +97,11 @@ Networks are good for seeing underlying structures in your data — key players,
 <p align="center"><img width="700" height="350" src="https://github.com/YaleDHLab/lab-workshops/blob/master/networks/images/marvel-network-male.png"></br>Male Character Network</p>
 
 <p align="center"><img width="700" height="350" src="https://github.com/YaleDHLab/lab-workshops/blob/master/networks/images/marvel-network-female.png"></br>Female Character Network</p>
+
+- <a href='http://www.datasketch.es/october/code/nadieh/' target='_blank'>Royal Constellations</a> by Nadieh Bremer 
+- <a href='http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network' target='_blank'>Six Degrees of Sir Francis Bacon</a>
+- <a href='http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network' target='_blank'>The Inner Life of Empires</a> by Ian Kumekawa and Emma Rothschild
+
 
 ## How do we prepare our data?
 Networks take (or create) two kinds of lists:
