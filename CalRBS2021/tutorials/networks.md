@@ -100,7 +100,7 @@ Networks are good for seeing underlying structures in your data — key players,
 
 - <a href='http://www.datasketch.es/october/code/nadieh/' target='_blank'>Royal Constellations</a> by Nadieh Bremer 
 - <a href='http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network' target='_blank'>Six Degrees of Sir Francis Bacon</a>
-- <a href='http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network' target='_blank'>The Inner Life of Empires</a> by Ian Kumekawa and Emma Rothschild
+- <a href='https://histecon.fas.harvard.edu/innerlife/connections.html' target='_blank'>The Inner Life of Empires</a> by Ian Kumekawa and Emma Rothschild
 
 When looking at the above network graphs, consider: 
 - What kinds of questions can we explore with networks that we couldn't with text analysis?
