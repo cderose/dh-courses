@@ -57,6 +57,7 @@ Other tool: [Palladio](https://hdlab.stanford.edu/palladio/)
 In our fifth day, we will look at what we could do with geographic data, from how we can collect it to ways we might visualize it. As a capstone to our week, we will also discuss how we can share digital projects online.
 
 Reading: ["The True Colors of America's Political Spectrum Are Gray and Green"](https://github.com/cderose/dh-courses/blob/master/CalRBS2021/readings/05_True%20Colors_WallaceKarra.pdf)  
+Slides: [Geospatial Analysis & Sharing our Work](https://docs.google.com/presentation/d/1e71BSt-K_AUJWkp_7RSu-RcMo1xc5padzwzdvG703ss/edit?usp=sharing)  
 Workshop: [ArcGIS Online](https://www.arcgis.com/index.html), [StoryMaps](https://storymaps.arcgis.com/)  
 
 Further Reading: ["The Statute of Anne and the Geography of English Printing"](https://earlybookmarket.com/printing-geography.html)   
