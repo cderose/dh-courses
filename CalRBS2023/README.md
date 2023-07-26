@@ -10,7 +10,7 @@ In our first day, we will discuss the digital humanities (DH) generally, with a 
 
 Reading: ["Big? Smart? Clean? Messy? Data in the Humanities"](https://github.com/cderose/dh-courses/blob/master/CalRBS2023/readings/01_DataInTheHumanities_Schoch.pdf)    
 Slides: [Data in the Humanities](https://docs.google.com/presentation/d/1OzhFdLVvnxVg09wyQOv0buVzKXxhplNZJwnERcAzLjI/edit?usp=sharing)  
-Workshop: [OpenRefine](https://openrefine.org/)  
+Software: [OpenRefine](https://openrefine.org/)  
 Dataset: [openrefine-doaj.csv](https://drive.google.com/drive/folders/1hhkpAqz1hyyxmYLPe9K7VOR5e46DrfNZ?usp=sharing)
 
 Additional reading: ["Data Organization in Spreadsheets"](https://github.com/cderose/course-prep/blob/main/readings/extra-readings.md)  
