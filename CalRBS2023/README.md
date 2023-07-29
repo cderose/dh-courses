@@ -13,6 +13,6 @@ Slides: [Data in the Humanities](https://docs.google.com/presentation/d/1OzhFdLV
 Software: [OpenRefine](https://openrefine.org/)  
 Dataset: [openrefine-doaj.csv](https://drive.google.com/drive/folders/1hhkpAqz1hyyxmYLPe9K7VOR5e46DrfNZ?usp=sharing)
 
-Additional reading: ["Data Organization in Spreadsheets"](https://github.com/cderose/course-prep/blob/main/readings/extra-readings.md)  
+Optional reading: ["Data Organization in Spreadsheets"](https://github.com/cderose/course-prep/blob/main/readings/extra-readings.md)  
 Practice: [Library Carpentry OpenRefine](https://librarycarpentry.org/lc-open-refine/), [British Library Workshop](http://www.meanboyfriend.com/overdue_ideas/wp-content/uploads/2014/11/Introduction-to-OpenRefine-handout-CC-BY.pdf)  
 Next step: [Programming Historian Lesson on Fetching Data with OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine)
