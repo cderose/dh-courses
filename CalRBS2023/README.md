@@ -22,8 +22,7 @@ Practice: [Library Carpentry OpenRefine](https://librarycarpentry.org/lc-open-re
 
 In our second day, we will consider strategies and best practices for visualizing data that take into account what kind of data we have, who we have in mind as our audience, what story we're aiming to tell, and where we think the visualization will circulate. We'll also get hands-on experience creating data visualizations with Tableau Public.
 
-Reading: ["Feminist Data Visualization"](https://github.com/cderose/dh-courses/blob/master/CalRBS2023/readings/02_FeministDataVis_KleinDIgnazio.pdf)  
-Project: [Makeover Monday submissions](https://twitter.com/makeover_monday?lang=en)  
+Reading: ["Feminist Data Visualization"](https://github.com/cderose/dh-courses/blob/master/CalRBS2023/readings/02_FeministDataVis_KleinDIgnazio.pdf)   
 Slides: [Data Visualization in the Humanities](https://docs.google.com/presentation/d/1OTkc4VGsC8BJ_Z6eFrszIIwSySzp3z7pFdZ8mPP8krE/edit?usp=sharing)  
 Software: [Tableau Public](https://public.tableau.com/en-us/s/)  
 Dataset: [tableau-goodreads.csv](https://drive.google.com/drive/folders/12WIcs0ykyBd0FGZ25z2VklfbPBxwCXfR?usp=sharing)
@@ -31,6 +30,6 @@ Dataset: [tableau-goodreads.csv](https://drive.google.com/drive/folders/12WIcs0y
 \- \- \- Follow-up material - - -  
 
 Reading/Watching: [Data Feminism](https://data-feminism.mitpress.mit.edu/), [Visualization Analysis and Design Lecture](https://www.youtube.com/watch?v=1GhZisgc6DI)   
-Projects: [Dear Data](http://www.dear-data.com/theproject), [A Vis of Ice and Fire](https://fredhohman.com/a-viz-of-ice-and-fire/)  
+Projects: [Makeover Monday submissions](https://twitter.com/makeover_monday?lang=en), [Dear Data](http://www.dear-data.com/theproject), [A Vis of Ice and Fire](https://fredhohman.com/a-viz-of-ice-and-fire/)  
 Practice: [Tableau Training Videos](https://www.tableau.com/learn/training/20212), [Makeover Monday](https://www.makeovermonday.co.uk/data/)   
 Software: [Raw Graphs](https://rawgraphs.io/)
