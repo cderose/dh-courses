@@ -39,7 +39,7 @@ Software: [Raw Graphs](https://rawgraphs.io/)
 
 In our third day, we will cover computational text analysis (what it is, why it might be useful, what to watch out for). While we will survey a number of approaches and tools, we will focus our workshop on Named Entity Recognition in particular as that can be helpful for creating datasets that you might want to use later in the week.
 
-Reading: ["Seven Ways Humanists are Using Computers to Understand Text"](https://github.com/cderose/dh-courses/blob/master/CalRBS2021/readings/03_SevenWays_Underwood.pdf)  
+Reading: ["Seven Ways Humanists are Using Computers to Understand Text"](https://github.com/cderose/dh-courses/blob/master/CalRBS2023/readings/03_SevenWays_Underwood.pdf)  
 Slides: [Text Analysis](https://docs.google.com/presentation/d/1MoASQFmFje71kz6_UxvDYudEoT2SCF9ey1lkHAO5Q1o/edit?usp=sharing)   
 Software: [Stanza](https://stanfordnlp.github.io/stanza/), [Google Colab](https://colab.research.google.com/?utm_source=scs-index)  
 
