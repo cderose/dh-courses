@@ -7,7 +7,7 @@ While Tableau runs locally, it saves publicly, meaning your data becomes public.
 
 ### Set Up
 1. [Download, install, and then open Tableau Public](https://public.tableau.com/en-us/s/).
-2. Under "Connect" in the left-hand column, click on "Text file" and select the `tableau-goodreads` CSV file. Tableau will load a preview of the dataset, giving us insight into how it is interpreting our data.
+2. Under "Connect" in the left-hand column, click on "Text file" and select the [tableau-goodreads](https://drive.google.com/drive/folders/1hhkpAqz1hyyxmYLPe9K7VOR5e46DrfNZ?usp=sharing) CSV file. Tableau will load a preview of the dataset, giving us insight into how it is interpreting our data.
 3. Review Tableau's interpretation. The symbol at the top of the header represents what data type it thinks each column contains:
 - Abc = string (text) data,
 - Globe = geospatial data, 
