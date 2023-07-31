@@ -30,6 +30,6 @@ Dataset: [tableau-goodreads.csv](https://drive.google.com/drive/folders/12WIcs0y
 \- \- \- Follow-up material - - -  
 
 Reading/Watching: [Data Feminism](https://data-feminism.mitpress.mit.edu/), [Visualization Analysis and Design Lecture](https://www.youtube.com/watch?v=1GhZisgc6DI)   
-Projects: [Makeover Monday submissions](https://twitter.com/makeover_monday?lang=en), [Data Sketches](https://www.datasketch.es/), [A Vis of Ice and Fire](https://fredhohman.com/a-viz-of-ice-and-fire/)  
+Projects: [Makeover Monday submissions](https://twitter.com/makeover_monday?lang=en), [Data by Design](https://dev.dataxdesign.io/), [Data Sketches](https://www.datasketch.es/), [A Vis of Ice and Fire](https://fredhohman.com/a-viz-of-ice-and-fire/)  
 Practice: [Tableau Training Videos](https://www.tableau.com/learn/training/20212), [Makeover Monday](https://www.makeovermonday.co.uk/data/)   
 Software: [Raw Graphs](https://rawgraphs.io/)
