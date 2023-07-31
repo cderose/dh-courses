@@ -15,7 +15,7 @@ Dataset: [openrefine-doaj.csv](https://drive.google.com/drive/folders/1hhkpAqz1h
 
 \- \- \- Follow-up material - - -  
 
-Reading: ["Data Organization in Spreadsheets"](https://github.com/cderose/course-prep/blob/main/readings/extra-readings.md), ["The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets"](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)  
+Reading: ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989), ["The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets"](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)  
 Practice: [Library Carpentry OpenRefine](https://librarycarpentry.org/lc-open-refine/), [British Library Workshop](http://www.meanboyfriend.com/overdue_ideas/wp-content/uploads/2014/11/Introduction-to-OpenRefine-handout-CC-BY.pdf), [Programming Historian Lesson on Fetching Data with OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine)
 
 ## Day 2: Data Visualization
