@@ -33,10 +33,11 @@ To start getting a sense for what our dataset looks like, let's see how many aut
 2. Swap the axes by clicking on the upside down "L" icon in the top toolbar.
 3. To sort from least to greatest or greatest to least, click on the ascending or descending stacked rectangles icons.
 4. To see the breakdown of authors by gender click on the "Author Gender" pill and drag it over the "Color" Marks card. To change the colors being used, click the dropdown for the "Author Gender" legend (you might have to click off "Show Me" to see it) -> "Edit Colors." I tend to use the colors in the "Color Blind" palette to help ensure my color choices will be widely accessible.
-5. To color the rows by genre instead (which will show us what genre(s) each author wrote in), drag the "Genre" pill over "Color." We will get a warning since we have over 100 genres and good practice is to use the color channel for 10 or fewer categories, but since we're creating an exploratory visualization just for ourselves to get a handle of the dataset, click "Add all members" and proceed.
-6. Update the x-axis label to something clearer by clicking on the current label, "Count of tableau-goodreads.csv." In the pop-up that appears, type "Number of Books" for the new label. Click the "X" when finished. 
-7. Give the chart a meaningful title by double clicking on the current title, "Sheet 1." Remove "\<Sheet Name>" and type a new title based on the settings you have in place. 
-8. For the last step, give a title to this sheet in Tableau. Double click on "Sheet 1" in the bottom bar and rename it "bar chart of authors."
+5. To color the rows by genre instead (which will show us what genres each author wrote in), drag the "Genre" pill over "Color." We will get a warning since we have over 100 genres and good practice is to use the color channel for 10 or fewer categories, but since we're creating an exploratory visualization just for ourselves to get a handle of the dataset, click "Add all members" and proceed.
+6. To add a caption to the chart, click on the "Worksheet" tab and turn on "Show caption".
+7. To update the x-axis label to something more meaningful, click on the current label ("Count of tableau-goodreads.csv"). In the pop-up that appears, type "Number of Books" for the new label. Click the "X" when finished. 
+8. Give the chart a meaningful title by double clicking on the current title, "Sheet 1." Remove "\<Sheet Name>" and type a new title based on the settings you have in place. 
+9. For the last step, give a title to this sheet in Tableau by double clicking on "Sheet 1" in the bottom bar and typing "bar chart of authors."
 
 ### Bar Chart: Genres
 Let's take a closer look at the breakdown of genres in our dataset with a new bar chart.
