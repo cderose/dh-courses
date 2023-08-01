@@ -49,4 +49,4 @@ Software: [Stanza](https://stanfordnlp.github.io/stanza/), [Google Colab](https:
 Bonus slides: [Machine learning slides](https://docs.google.com/presentation/d/1lwxhmjhmZbPn2zB8VJias73SCsyAtfdk4wt3yf_eRYE/edit?usp=sharing)  
 Software: [DataBasic.io](https://databasic.io/en/), [Voyant](https://voyant-tools.org/)  
 Practice: [AntConc](https://www.laurenceanthony.net/software/antconc/) - [(tutorial)](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)  
-Projects: [Vogue - Word Embeddings](https://www.canva.com/design/DAEkFyjYuoE/tkVh45du5_tFiXxYMljoAw/view?website#2:using-temporal-word-embeddings-to-reveal-the-shifting-notion-of-beauty-in), [Mining the Distpatch - Topic models](https://dsl.richmond.edu/dispatch/introduction), [Fan Engagement Meter - Ngrams](http://fanengagement.org/)  
+Projects: [Vogue - Word embeddings](https://www.canva.com/design/DAEkFyjYuoE/tkVh45du5_tFiXxYMljoAw/view?website#2:using-temporal-word-embeddings-to-reveal-the-shifting-notion-of-beauty-in), [Mining the Distpatch - Topic models](https://dsl.richmond.edu/dispatch/introduction), [Fan Engagement Meter - Ngrams](http://fanengagement.org/)  
