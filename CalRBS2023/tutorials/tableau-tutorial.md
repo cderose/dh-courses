@@ -47,14 +47,15 @@ Let's take a closer look at the breakdown of genres in our dataset with a new ba
 3. Swap axes and sort from greatest to least (see the first bar chart for the steps if you need a refresher).
 4. Drag "Author Gender" over "Color" to see the breakdown for each genre.
 5. To make the breakdown clearer, drag "tableau-goodreads.csv" over the "Label" Marks card. Now we can see the exact number of authors writing for each genre based on our dataset.
-6. To turn the number into a percentage, click the dropdown for the green "CNT(tableau-goodreads.csv)" pill in our Marks card area -> "Quick Table Calculation" -> "Percent of Total." By default, Tableau is showing us the aggregate percentage for the entire dataset. To be able to ask questions such as, "what genres are mostly written by women versus men in this dataset?", we need to change how Tableau is doing the calculation. Click on the dropdown for "CNT(tableau-goodreads.csv)" again -> "Compute using" -> "Table (across)." Now we can see that the mystery genre is 50%-50% when it comes to men and women authors, versus more women writing young adult novels and more men writing science fiction (in this dataset, anyway).
-7. Practice adding a graph title, a clearer x-axis label, and a title for the worksheet. See the first bar chart we made if you need the steps.
+6. To turn the number into a percentage, click the dropdown for the green "CNT(tableau-goodreads.csv)" pill in our Marks card area -> "Quick Table Calculation" -> "Percent of Total." By default, Tableau is showing us the aggregate percentage for the entire dataset. To be able to ask questions such as _what genres are mostly written by women versus men in this dataset?_, we need to change how Tableau is doing the calculation. Click on the dropdown for "CNT(tableau-goodreads.csv)" again -> "Compute using" -> "Table (across)." Now we can see that the mystery genre is 50%-50% when it comes to men and women authors, versus more women writing young adult novels and more men writing science fiction (in this dataset, anyway).
+7. Practice adding a graph title, a meaningful x-axis label, and a title for the worksheet. See the first bar chart we made if you'd like to review the steps.
 
 ### Line Graph: Genres Published over Time
 1. Click on the new sheet icon to open a new, blank workspace.
 2. Double click on the "tableau-goodreads.csv" pill and "Pub Date." We can see that we have a long tail of years where only one book was published.
-3. For a closer view of the years with more data, drag "Pub Date" (from the Tables section) over Filters and select "Years" in the popup. Click on the "Condition" tab -> "By field," and change = to > 10. Click "Ok." Now, our line graph has updated so that only years where at least 10 books were published will be visible.
-4. To see the breakdown by genre, drag "Genre" over "Color" as we did before. 
+3. For a closer view of the years with more data, drag "Pub Date" over "Filters" and select "Years" in the popup. Click on the "Condition" tab -> "By field," and change = to > 10. Click "Ok." Now, our line graph has updated so that only years where at least 10 books were published will be visible.
+4. To see the breakdown by genre, drag "Genre" over "Color" as we did before.
+5. To make the graph more legible, we can update our "YEAR(Pub Date)" filter to show publications from the last decade. Click on the filter -> Edit filter and turn the condition back to "None". In "General", click "Select from list" and check the last ten years. Click "Ok".
 
 ### Map: Where Authors were Born
 1. Click on the new sheet icon to open a new, blank workspace.
