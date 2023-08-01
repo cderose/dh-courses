@@ -31,7 +31,7 @@ Dataset: [tableau-goodreads.csv](https://drive.google.com/drive/folders/12WIcs0y
 \- \- \- Follow-up material - - -  
 
 Reading/Watching: [Data Feminism](https://data-feminism.mitpress.mit.edu/), [Visualization Analysis and Design Lecture](https://www.youtube.com/watch?v=1GhZisgc6DI)   
-Projects: [Makeover Monday submissions](https://twitter.com/makeover_monday?lang=en), [Data by Design](https://dev.dataxdesign.io/), [Data Sketches](https://www.datasketch.es/), [A Vis of Ice and Fire](https://fredhohman.com/a-viz-of-ice-and-fire/)  
+Projects: [Makeover Monday submissions](https://twitter.com/makeover_monday?lang=en), [Data by Design](https://dev.dataxdesign.io/), [Data Sketches](https://www.datasketch.es/)  
 Practice: [Tableau Training Videos](https://www.tableau.com/learn/training/20212), [Makeover Monday](https://www.makeovermonday.co.uk/data/)   
 Software: [Raw Graphs](https://rawgraphs.io/)
 
@@ -40,6 +40,7 @@ Software: [Raw Graphs](https://rawgraphs.io/)
 In our third day, we will cover computational text analysis (what it is, why it might be useful, what to watch out for). While we will survey a number of approaches and tools, we will focus our workshop on Named Entity Recognition in particular as that can be helpful for creating datasets that you might want to use later in the week.
 
 Reading: ["Seven Ways Humanists are Using Computers to Understand Text"](https://github.com/cderose/dh-courses/blob/master/CalRBS2023/readings/03_SevenWays_Underwood.pdf)  
+Projects: ["Topic modeling"](http://dh.library.yale.edu/projects/vogue/topics/), [A Vis of Ice and Fire](https://fredhohman.com/a-viz-of-ice-and-fire/)  
 Slides: [Text Analysis](https://docs.google.com/presentation/d/1MoASQFmFje71kz6_UxvDYudEoT2SCF9ey1lkHAO5Q1o/edit?usp=sharing)   
 Software: [Stanza](https://stanfordnlp.github.io/stanza/), [Google Colab](https://colab.research.google.com/?utm_source=scs-index)  
 
@@ -48,4 +49,4 @@ Software: [Stanza](https://stanfordnlp.github.io/stanza/), [Google Colab](https:
 Bonus slides: [Machine learning slides](https://docs.google.com/presentation/d/1lwxhmjhmZbPn2zB8VJias73SCsyAtfdk4wt3yf_eRYE/edit?usp=sharing)  
 Software: [DataBasic.io](https://databasic.io/en/), [Voyant](https://voyant-tools.org/)  
 Practice: [AntConc](https://www.laurenceanthony.net/software/antconc/) - [(tutorial)](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)  
-Projects: [Vogue and Word Embeddings](https://www.canva.com/design/DAEkFyjYuoE/tkVh45du5_tFiXxYMljoAw/view?website#2:using-temporal-word-embeddings-to-reveal-the-shifting-notion-of-beauty-in), [Mining the Distpatch - Topic models](https://dsl.richmond.edu/dispatch/introduction)  
+Projects: [Vogue - Word Embeddings](https://www.canva.com/design/DAEkFyjYuoE/tkVh45du5_tFiXxYMljoAw/view?website#2:using-temporal-word-embeddings-to-reveal-the-shifting-notion-of-beauty-in), [Mining the Distpatch - Topic models](https://dsl.richmond.edu/dispatch/introduction), [Fan Engagement Meter - Ngrams](http://fanengagement.org/)  
