@@ -39,6 +39,9 @@ To start getting a sense for what our dataset looks like, let's see how many aut
 8. Give the chart a meaningful title by double clicking on the current title, "Sheet 1." Remove "\<Sheet Name>" and type a new title based on the settings you have in place. 
 9. For the last step, give a title to this sheet in Tableau by double clicking on "Sheet 1" in the bottom bar and typing "bar chart of authors."
 
+### Save Your Work
+To save your Tableau workbook, you have to create a free Tableau account. When you click save, you will be prompted to log in and save your workbook to Tableau's server, where it will be visible on Tableau Public. Users can interact with your workbook on Tableau Public, or they could download, add to, or otherwise edit it. Remember, your data also becomes public, unless you're working with Tableau Dekstop! 
+
 ### Bar Chart: Genres
 Let's take a closer look at the breakdown of genres in our dataset with a new bar chart.
 
@@ -83,14 +86,21 @@ Let's pull our visualizations together in a data dashboard.
 - In the name field, type: "Go to Goodreads Website."
 - For "Run action on," choose "Hover."
 - Check the box so that only the map worksheet is selected.
-- For the URL, click on triangle  and select "ATTR(Book Fullurl)."
+- For the URL, click on triangle  and select "ATTR(Book Fullurl)." (Ignore the warning about the URL.)
 - Click "Ok" and "Ok" again to add the action.
 - Now when you hover over any data point on the map, the webpage should automatically update to reflect the book that's selected, unless the dot on the map represents more than one book, in which case the page won't update.
 
-### Save Your Work
-To save your Tableau workbook, you have to create a free Tableau account. When you click save, you will be prompted to log in and save your workbook to Tableau's server, where it will be visible on Tableau Public. Users can interact with your workbook on Tableau Public, or they could download, add to, or otherwise edit it. Remember, your data also becomes public, unless you're working with Tableau Dekstop! 
+### Story: Contextualize your Visualizations
+Let's pull our visualizations together into a story.
+1. Start a story by clicking on the icon that looks like an open books (it's next to the new dashboard icon).
+2. Drag visualizations into the workspace. You can also drag text boxes over to add context for your visualizations.
+3. To add a new page in the story, click on "Blank" or "Duplicate".
 
+### Exercise: Comparing popular genres
+Create two visualizations: one that shows the most popular genres in 2019 and one that shows the most popular genres in 1999.
+Hint: after you've created the first visualization, duplicate the worksheet.
+  
 ## Next Steps, Cautions, & Additional Tips
 * To learn about joining multiple datasets, creating data stories, running calculations, and managing a Tableau server, watch Tableau's free [online training videos](https://www.tableau.com/learn/training/20201).
-* Word of caution: Tableau frequently has updates available, but they're not always backwards compatible. For that reason, you might not want to update to the newest version while you're in the middle of a project.
-* For additional practice and open datasets, check out [#MakeoverMonday](https://www.makeovermonday.co.uk/). Every week, Tableau shares a dataset and starter visualization, challenging participants to remake it. You can find the results and share your remakes on [Twitter](https://twitter.com/hashtag/makeovermonday?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag). Better yet, if you see a makeover visualization someone else created that you like, try downloading the workbook from Tableau Public to see how they made it!
+* Word of caution: Tableau frequently has updates available, but they're not always backward compatible. For that reason, you might not want to update to the newest version while you're in the middle of a project.
+* For additional practice and open datasets, check out [#MakeoverMonday](https://www.makeovermonday.co.uk/). Every week, Tableau shares a dataset and starter visualization, challenging participants to remake it. You can find the results and share your remakes on [Twitter](https://twitter.com/hashtag/makeovermonday?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag). Better yet, if you see a makeover visualization someone else created that you like, try downloading the workbook from Tableau Public to see how they made it.
