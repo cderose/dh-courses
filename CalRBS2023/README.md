@@ -25,7 +25,7 @@ In our second day, we will consider strategies and best practices for visualizin
 Reading: ["Feminist Data Visualization"](https://github.com/cderose/dh-courses/blob/master/CalRBS2023/readings/02_FeministDataVis_KleinDIgnazio.pdf)   
 Slides: [Data Visualization in the Humanities](https://docs.google.com/presentation/d/1OTkc4VGsC8BJ_Z6eFrszIIwSySzp3z7pFdZ8mPP8krE/edit?usp=sharing)  
 Software: [Tableau Public](https://public.tableau.com/en-us/s/)  
-Workshop: [Tableau tutorial](https://github.com/cderose/dh-courses/blob/master/CalRBS2023/tutorials/tableau-tutorial.md), [finished workbook](https://public.tableau.com/app/profile/catherine.derose/viz/GoodreadsBooks-CalRBS/animatedbarchartofratingsbygenre)  
+Workshop: [Tableau tutorial](https://github.com/cderose/dh-courses/blob/master/CalRBS2023/tutorials/tableau-tutorial.md), [finished workbook](https://public.tableau.com/views/CalRBS2023/linegraph?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)    
 Dataset: [tableau-goodreads.csv](https://drive.google.com/drive/folders/12WIcs0ykyBd0FGZ25z2VklfbPBxwCXfR?usp=sharing)
 
 \- \- \- Follow-up material - - -  
