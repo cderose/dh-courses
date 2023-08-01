@@ -57,13 +57,20 @@ Let's take a closer look at the breakdown of genres in our dataset with a new ba
 4. To see the breakdown by genre, drag "Genre" over "Color" as we did before.
 5. To make the graph more legible, we can update our "YEAR(Pub Date)" filter to show publications from the last decade. Click on the filter -> Edit filter and turn the condition back to "None". In "General", click "Select from list" and check the last ten years. Click "Ok".
 
+### Scatterplot: Genres by Rating
+1. Click on the new sheet icon to open a new, blank workspace.
+2. Double click on the "tableau-goodreads.csv" pill and "Book Average Rating."
+3. Drag "Genre" over the "Label" mark.
+4. To try other ways of visualizing this data, click on "Show Me" in the top-right corner and select other visualizations. For example, try treemap and packed circles. How do the visualizations affect what information we can glean?
+
 ### Map: Where Authors were Born
 1. Click on the new sheet icon to open a new, blank workspace.
-2. Double click on "Birthplace" to see a map of where almost all authors in our dataset were born. In the lower right, click on "2 unknown" to see which locations Tableau doesn't recognize -> "Edit Locations." Tableau doesn't recognized "England" and "Scotland" because it's looking for "United Kingdom." Double click on "Unrecognized" and type "United Kingdom" to create a mapping for Tableau between the words so that it will know where to locate our data points. Then click "Ok." Now all of our data has been mapped.
-3. To see how the locations change over time, drag "Pub Date" over "Pages." Click on "Format" in the top toolbar -> "Animations." Select "Off" and "X" out of the animation pane. For the "YEAR(Pub Date) legend," click "Show History" and turn on "Last" under "Length" so that dots won't immediately disappear from view when the year changes. Click the triangle play button to watch the dots change. To alter the speed, click on the stack rectangle symbols (three rectangles is the fastest speed).
-4. To give our map access to additional information that we will use later when making our dashboard, drag the "Book Title" and "Book Fullurl" pills over the "Tooltip" mark.
-5. To give a title to the map, double click on the title as before, but don't remove "\<Page Name>" because that will automatically populate our title with whatever year is showing.
-6. To see only books published since 1900, try creating a "Pub Date" filter (see the steps from the line graph we made if you get stuck).
+2. Double click on "Birthplace" to see a map of where almost all authors in our dataset were born. In the lower right, click on "2 unknown" to see which locations Tableau doesn't recognize -> "Edit Locations." Tableau doesn't recognized "England" and "Scotland" because it's looking for "United Kingdom." (Mapping projects aren't neutral.) Double click on "Unrecognized" and type "United Kingdom" to create a mapping for Tableau between the words so that it will know where to locate our data points. Then click "Ok." Now all of our data has been mapped.
+3. To see how the locations change over time, drag "Pub Date" over "Pages." For the "YEAR(Pub Date)" filter that appears (you might have to click off "Show Me"), click "Show history" and turn on "Last" under "Length" so that dots won't immediately disappear from view when the year changes. Click the triangle play button to watch the dots change. To alter the speed, click on the stack rectangle symbols (three rectangles is the fastest speed).
+4. To change the background map, click on "Map" -> "Background Maps" and select a different basemap (such as "Normal" or "Dark").
+5. To give our map access to additional information that we will use later when making our dashboard, drag the "Book Title" and "Book Fullurl" pills over the "Tooltip" mark. You can now see that information when you hover over a data point.
+6. To give a title to the map, double click on the title as before, but this time, don't remove "\<Page Name>" because that will automatically populate our title with whatever year is showing.
+7. To see only books published since 1900, try creating a "Pub Date" filter (see the steps from the line graph we made if you get stuck). Another way to create the filter is to drag "Pub Date" over "Filters" and select "Range of dates" -> "Starting date". For the starting date, choose "1/1/1900".
 
 ### Data Dashboard: Bring Visualizations Together
 Let's pull our visualizations together in a data dashboard.
