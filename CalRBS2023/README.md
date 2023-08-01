@@ -30,7 +30,7 @@ Dataset: [tableau-goodreads.csv](https://drive.google.com/drive/folders/12WIcs0y
 
 \- \- \- Follow-up material - - -  
 
-Reading/Watching: ["Visualizing Zero"](https://hbr.org/2014/05/visualizing-zero-how-to-show-something-with-nothing), [Data Feminism](https://data-feminism.mitpress.mit.edu/), [Visualization Analysis and Design Lecture](https://www.youtube.com/watch?v=1GhZisgc6DI)   
+Reading/Watching: ["Visualizing Incomplete and Missing Data"](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/), ["Visualizing Zero"](https://hbr.org/2014/05/visualizing-zero-how-to-show-something-with-nothing), [Data Feminism](https://data-feminism.mitpress.mit.edu/), [Visualization Analysis and Design Lecture](https://www.youtube.com/watch?v=1GhZisgc6DI)   
 Projects: [Makeover Monday submissions](https://twitter.com/makeover_monday?lang=en), [Data by Design](https://dev.dataxdesign.io/), [Data Sketches](https://www.datasketch.es/)  
 Practice: [Tableau Training Videos](https://www.tableau.com/learn/training/20212), [Makeover Monday](https://www.makeovermonday.co.uk/data/)   
 Software: [Raw Graphs](https://rawgraphs.io/)
