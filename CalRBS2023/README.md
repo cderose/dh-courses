@@ -64,9 +64,27 @@ In our fourth day, we will continue our closer look at digital humanities method
 *Projects: [Royal Constellations](https://royalconstellations.visualcinnamon.com/), [Six Degrees of Francis Bacon](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network), [The Inner Life of Empires](https://histecon.fas.harvard.edu/innerlife/connections.html)  
 Slides: [Network Analysis](https://docs.google.com/presentation/d/1LO30M1JxHnIGXOb0Ik99XBDjj09T6hBjgz57Uzo-_Qk/edit?usp=sharing)   
 Software: [Gephi](https://gephi.org/)  
-Dataset: [networks-rj-nodes.csv and networks-rj-edges.csv](https://drive.google.com/drive/folders/1hhkpAqz1hyyxmYLPe9K7VOR5e46DrfNZ?usp=sharing)
+Dataset: [networks-rj-nodes.csv and networks-rj-edges.csv](https://drive.google.com/drive/folders/1hhkpAqz1hyyxmYLPe9K7VOR5e46DrfNZ?usp=sharing)  
 
 \- \- \- Follow-up material - - -  
 
 Readings: ["Network Theory, Plot Analysis"](https://litlab.stanford.edu/assets/pdf/LiteraryLabPamphlet2.pdf), [The Network Turn](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5)  
 Software: [Palladio](https://hdlab.stanford.edu/palladio/)  
+
+## Day 5: Spatial Analysis & Publishing
+
+In our fifth day, we will look at what we can do with geographic data, from how we can collect it to ways we might visualize it. As a capstone to our week, we will also discuss how we can share digital projects online.
+
+*Reading: ["Searching Maps by Words: How Machine Learning Changes the Way we Explore Map Collections"](https://github.com/cderose/dh-courses/blob/master/CalRBS2023/readings/05_SearchingMaps_Vitale.pdf)  
+*Projects: [Charles Booth's London](https://booth.lse.ac.uk/), [Photogrammar](https://www.photogrammar.org/maps), [The Atlas of Early Printing](http://atlas.lib.uiowa.edu/)  
+Slides: Geospatial Analysis & Sharing our Work  
+Software: [ArcGIS Online](https://www.arcgis.com/index.html), [StoryMaps](https://storymaps.arcgis.com/)  
+ 
+
+\- \- \- Follow-up material - - -  
+
+Further Reading: ["The Statute of Anne and the Geography of English Printing"](https://earlybookmarket.com/printing-geography.html)   
+Projects: [Textual Geographies](https://txtgeo.net/query), [Authorial London](https://authorial.stanford.edu/#authors)  
+Software: [Georeferencer](https://www.georeferencer.com/)   
+Tutorial: [Building a Static Website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+
