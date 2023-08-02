@@ -47,6 +47,7 @@ In our third day, we will cover computational text analysis (what it is, why it 
 Slides: [Text Analysis](https://docs.google.com/presentation/d/1MoASQFmFje71kz6_UxvDYudEoT2SCF9ey1lkHAO5Q1o/edit?usp=sharing)   
 Software: [Stanza](https://stanfordnlp.github.io/stanza/), [Google Colab](https://colab.research.google.com/?utm_source=scs-index)  
 Workshop:  [NER tutorial](https://colab.research.google.com/drive/1JqaUU89beuOcY6ORKTzAGlTUfKnnAJhx?authuser=2#scrollTo=Uqy-QLD_K9e2)  
+Dataset: [jack-delano-photo-caption](https://raw.githubusercontent.com/cderose/dh-courses/master/data/jack-delano.txt)  
 
 \- \- \- Follow-up material - - -  
 
