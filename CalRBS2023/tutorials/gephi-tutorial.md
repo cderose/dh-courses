@@ -1,3 +1,5 @@
+[Sample datasets](https://github.com/gephi/gephi/wiki/Datasets)
+
 # Navigating the Gephi Interface
 
 The Overview pane is where you'll spend most of your time in Gephi. This is where you can experiment with different layouts, color or resize nodes according to some property or measure, run statistics, and partition the network based on a parameter you select.  
