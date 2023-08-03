@@ -64,6 +64,7 @@ In our fourth day, we will continue our closer look at digital humanities method
 *Projects: [Royal Constellations](https://royalconstellations.visualcinnamon.com/), [Six Degrees of Francis Bacon](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network), [The Inner Life of Empires](https://histecon.fas.harvard.edu/innerlife/connections.html)  
 Slides: [Network Analysis](https://docs.google.com/presentation/d/1LO30M1JxHnIGXOb0Ik99XBDjj09T6hBjgz57Uzo-_Qk/edit?usp=sharing)   
 Software: [Gephi](https://gephi.org/)  
+Workshop:  [Gephi tutorial](https://github.com/cderose/dh-courses/blob/master/CalRBS2023/tutorials/gephi-tutorial.md)  
 Dataset: [networks-rj-nodes.csv and networks-rj-edges.csv](https://drive.google.com/drive/folders/1hhkpAqz1hyyxmYLPe9K7VOR5e46DrfNZ?usp=sharing)  
 
 \- \- \- Follow-up material - - -  
