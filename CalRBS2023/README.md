@@ -78,7 +78,7 @@ In our fifth day, we will look at what we can do with geographic data, from how 
 
 *Reading: ["Searching Maps by Words: How Machine Learning Changes the Way we Explore Map Collections"](https://github.com/cderose/dh-courses/blob/master/CalRBS2023/readings/05_SearchingMaps_Vitale.pdf)  
 *Projects: [Charles Booth's London](https://booth.lse.ac.uk/), [Photogrammar](https://www.photogrammar.org/maps), [The Atlas of Early Printing](http://atlas.lib.uiowa.edu/)  
-Slides: Geospatial Analysis & Sharing our Work  
+Slides: [Geospatial Analysis & Sharing our Work](https://docs.google.com/presentation/d/185MZGDX6a0TsNHt7xZrvg0xwjIckDMthAtdVn-4NVjo/edit?usp=sharing)    
 Software: [ArcGIS Online](https://www.arcgis.com/index.html), [StoryMaps](https://storymaps.arcgis.com/)  
  
 
