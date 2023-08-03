@@ -69,7 +69,7 @@ Dataset: [networks-rj-nodes.csv and networks-rj-edges.csv](https://drive.google.
 \- \- \- Follow-up material - - -  
 
 Readings: ["Network Theory, Plot Analysis"](https://litlab.stanford.edu/assets/pdf/LiteraryLabPamphlet2.pdf), [The Network Turn](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5)  
-Software: [Palladio](https://hdlab.stanford.edu/palladio/)  
+Software/Packages: [NetworkX - Python package](https://networkx.org/), [Palladio](https://hdlab.stanford.edu/palladio/)  
 
 ## Day 5: Spatial Analysis & Publishing
 
