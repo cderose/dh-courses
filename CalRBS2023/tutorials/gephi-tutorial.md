@@ -28,7 +28,7 @@ You can create a workspace a couple ways.
 - From the Workspace tab at the top, click Duplicate.
 - From the Data Laboratory pane, select all of your nodes (you can use control or command A), right click, and then select Copy to -> New workspace.  
 
-# Chosoe a layout
+# Choose a layout
 From the Overview pane, you can click on the "Layout" tab to find an optimal layout for your network. Frequently used layouts include the following:  
 
 **ForceAtlas 2** – Turns the layout into a magnetic field. Nodes that aren't connected repel; edges act like spring that pull together.  For settings, try Stronger Gravity (or your isolates will fly away), Dissuage Hubs, and Prevent Overlap.  
