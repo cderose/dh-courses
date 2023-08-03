@@ -12,8 +12,6 @@ When importing your data into Gephi, begin with the node list first ("Add node" 
 
 <p align="center"><img width="700" height="350" src="https://github.com/cderose/dh-courses/blob/master/images/gephi-dataLab.png"></br>Data Laboratory</p>
 
-
-
 The Preview pane is where you can prepare your network for publication. It gives you some design control over the look of your network (for example, how the node labels appear and whether the edges are curved or straight). Keep in mind that design choices affect the interpretability of the network.
 
 There are two buttons to be aware of on this page:
@@ -26,7 +24,9 @@ From the Overview pane, you can click on the "Statistics" tab to run various sta
 
 **Betweenness centrality** – Measures how often a node is on the shortest path to any other node in the network. Nodes with a high betweenness centrality are strategically positioned within the network.  
 **Modularity** – Detects communities (or subgroups) within the network.  
-**Eigenvector centrality** – Measures a node's influence in a network based on that node's connections.
+**Eigenvector centrality** – Measures a node's influence in a network based on that node's connections.  
+
+Whenever we run a statistic, the results become available in the "Appearance" section over the Overview pane. They also appear in our data spreadsheets in the Data Laboratory.
 
 # Creating a time slider
 To visualize how our network changes over the course of the play, we can create a time slider.  
