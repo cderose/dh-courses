@@ -86,6 +86,6 @@ Datasets: [georeferencing-1860map.jpg](https://drive.google.com/drive/folders/1h
 \- \- \- Follow-up material - - -  
 
 Further Reading: ["The Statute of Anne and the Geography of English Printing"](https://earlybookmarket.com/printing-geography.html)   
-Projects: [Textual Geographies](https://txtgeo.net/query), [Authorial London](https://authorial.stanford.edu/#authors)  
+Projects: [Machines Reading Maps](https://www.turing.ac.uk/research/research-projects/machines-reading-maps), [Textual Geographies](https://txtgeo.net/query), [Authorial London](https://authorial.stanford.edu/#authors)  
 Tutorial: [Building a Static Website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 
