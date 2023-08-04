@@ -18,6 +18,8 @@ Click Overlay at any point to see how the map is doing. From Overlay, you can ad
 When you're happy, click Save.
 
 ### Viewing the georeferenced map
+To interact with your georeferenced map, click on My Maps and go to Compare. This view gives you the ability to look at your map as a Grid (side by side), Swipe (an overlay), and Spy Glass (the georeferenced map appears in the spy glass).   
+
 
 
 ### Retrieving the Web Map Tile Service URL for ArcGIS Online
