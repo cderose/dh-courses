@@ -36,6 +36,15 @@ You want to save this link in a text file in the following pieces for ArcGIS Onl
 The key-value pairs after the ? and & represent parameters in your URL. When we upload our georeferenced map to ArcGIS Online, we need to specify the parameters separately from the base URL.  
 
 ## ArcGIS Online
+After you log in to [ArcGIS Online](https://www.arcgis.com/home/index.html), click on Map to create a new map project.  
 
+### Adding map layers
+We're going to add two map layers: one with a dataset and one with the map we georeferenced.  
+
+To add a CSV spreadsheet with data, click on Layers (the symbol is stacked squares) -> Add -> Add layer from file. Add the arcgis-viralTexts-beautifulSnowText.csv dataset. (If you've already added this dataset to your ArcGIS account, change the name of the file before uploading it, or ArcGIS won't let you save it.) In the data preview screen that appears, confirm that ArcGIS is interpreting the data correctly. In this case, all of the interpretations are correct, so we can click Next all the way through.  
+
+Give your map a title, tags, and summary that are meaningful for your project. In the summary, I generally like to include where the dataset came from.
+
+The final step is to click Create and add to map.
 
 ## StoryMaps
