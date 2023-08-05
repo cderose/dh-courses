@@ -38,16 +38,32 @@ The key-value pairs after the ? and & represent parameters in your URL. When we 
 ## ArcGIS Online
 After you log in to [ArcGIS Online](https://www.arcgis.com/home/index.html), click on Map to create a new map project.  
 
+Keep in mind that ArcGIS Online does not have an undo option - save often by clicking the folder icon midway down the left pane.
+
 ### Adding map layers
 We're going to add two map layers: one with a dataset and one with the map we georeferenced.  
 
-#### Uploading a dataset
+#### Uploading a dataset layer
 To add a CSV spreadsheet with data, click on Layers (the symbol is stacked squares) -> Add -> Add layer from file. Add the arcgis-viralTexts-beautifulSnowText.csv dataset. (If you've already added this dataset to your ArcGIS account, change the name of the file before uploading it, or ArcGIS won't let you save it.) In the data preview screen that appears, confirm that ArcGIS is interpreting the data correctly. In this case, all of the interpretations are correct, so we can click Next all the way through.  
 
 Give your map a title, tags, and summary that are meaningful for your project. In the summary, I generally like to include where the dataset came from.
 
 The final step is to click Create and add to map.
 
-#### Uploading a georeferenced map
+#### Uploading a georeferenced map layer
+Click on Layers -> Add -> Add layer from URL. Paste in the base URL from Old Maps Online. Click Add custom parameter and in the first box, paste in the key parameter (without the ? or =), and in the second box, paste in the value after the equal sign. Repeat this step for the SERVICE and REQUEST parameters. Click Next and add the basemap.  
+
+You cam toggle layers on and off in the Layers pane by clicking on the eye symbol. 
+
+### Changing the looks of the map
+Ensure that the data map layer is selected in the Layers pane.
+
+From the right Properties pane, you can experiment with the following settings to change the look of your map:  
+- Styles (heat map, single symbol)
+- Effects (whole layer, feature-specific - this option creates a filter)
+- Aggregation (clustering)
+- Pop-ups (enable and edit fields to change what appears in the pop ups)
+- Show Labels (adds a label to the data points)
+- Sketches (creates a new map layer where you can annotate your map to call attention to particular points)  
 
 ## StoryMaps
