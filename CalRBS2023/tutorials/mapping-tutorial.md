@@ -55,7 +55,7 @@ Click on Layers -> Add -> Add layer from URL. Paste in the base URL from Old Map
 
 You cam toggle layers on and off in the Layers pane by clicking on the eye symbol. 
 
-### Changing the looks of the map
+### Changing the look of the map
 Ensure that the data map layer is selected in the Layers pane.
 
 From the right Properties pane, you can experiment with the following settings to change the look of your map:  
@@ -64,6 +64,22 @@ From the right Properties pane, you can experiment with the following settings t
 - Aggregation (clustering)
 - Pop-ups (enable and edit fields to change what appears in the pop ups)
 - Show Labels (adds a label to the data points)
-- Sketches (creates a new map layer where you can annotate your map to call attention to particular points)  
+- Sketches (creates a new map layer where you can annotate your map to call attention to particular points)
+
+### Publishing your ArcGIS Online Map
+Click on the Share button in the left pane to either create a standalone application of your map or to export your map into a StoryMap.
 
 ## StoryMaps
+StoryMaps give you the ability to combine maps, text, images, videos, and audio in an interactive website.
+
+### Choosing a theme
+Click on the Design tab to choose the theme (or look) of your StoryMap.
+
+### Previewing your StoryMap
+Click on Preview to see what your StoryMap will look like to end users. Importantly, you can adjust the preview to see what your StoryMap will look like on different devices (mobile, tablet, desktop, full screen).  
+
+### Publishing your StoryMap
+CLick on Publish to make your StoryMap publicly available.
+
+### Building your StoryMap
+Click on the plus sign button to add media to your StoryMap. When adding media, think about what you want the end user experience to be - should they scroll through your story in a linear format or can they jump around?  
