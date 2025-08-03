@@ -17,7 +17,8 @@ Dataset: [openrefine-doaj.csv](https://drive.google.com/drive/folders/1jzusMm3Yk
 
 Reading: 
 - ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
-- ["The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets"](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)  
+- ["The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets"](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+- ["Dear Data"](https://www.dear-data.com/theproject)  
 
 Practice:
 - [Programming Historian Lesson on Fetching Data with OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine)  
