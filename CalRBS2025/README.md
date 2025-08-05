@@ -39,7 +39,6 @@ Dataset: [tableau-goodreads.csv](https://drive.google.com/drive/folders/1jzusMm3
 
 Reading/Watching: 
 - ["Visualizing Incomplete and Missing Data"](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/)  
-- ["Visualizing Zero"](https://hbr.org/2014/05/visualizing-zero-how-to-show-something-with-nothing)  
 - ["Visualising the Uncertain in Heritage Collections: Understanding, Exploring and Representing Uncertainty in the First World War British Unit War Diaries"](https://www.literarygeographies.net/index.php/LitGeogs/article/view/333?utm_source=chatgpt.com)  
 - [Data Feminism](https://data-feminism.mitpress.mit.edu/)  
 - [Visualization Analysis and Design Lecture](https://www.youtube.com/watch?v=1GhZisgc6DI)  
