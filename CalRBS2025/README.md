@@ -60,4 +60,23 @@ Software:
 
 In our third day, we will cover computational text analysis (what it is, why it might be useful, what to watch out for). While we will survey a number of approaches and tools, we will focus our workshop on Named Entity Recognition in particular as that can be helpful for creating datasets that you might want to use later in the week.
 
-Reading: ["Seven Ways Humanists are Using Computers to Understand Text"](https://github.com/cderose/dh-courses/blob/master/CalRBS2025/readings/03_SevenWays_Underwood.pdf) 
+Reading: ["Seven Ways Humanists are Using Computers to Understand Text"](https://github.com/cderose/dh-courses/blob/master/CalRBS2025/readings/03_SevenWays_Underwood.pdf)  
+Slides: [Text Analysis](https://docs.google.com/presentation/d/1E9wMETJmRAbF-HQNWKGlzu7SM1fG2sToX6esW4tTHDo/edit?usp=sharing), [Machine Learning](https://docs.google.com/presentation/d/1CnbEvxnh4hn8QDBDznq_5iHRQYJWS0nQGfae6KQQ98g/edit?usp=sharing)  
+Software: [Stanza](https://stanfordnlp.github.io/stanza/), [Google Colab](https://colab.research.google.com/?utm_source=scs-index)  
+Workshop: [NER tutorial](https://colab.research.google.com/drive/1aBKFJB7zVoQxNxNB3Pt-evDFq9qvaXn_?usp=sharing)  
+Dataset: [jack-delano-photo-caption](https://raw.githubusercontent.com/cderose/dh-courses/master/data/jack-delano.txt)  
+
+\- \- \- Follow-up material - - -  
+ 
+Software: [Voyant](https://voyant-tools.org/), [Flourish](https://flourish.studio/)  
+Practice: [AntConc](https://www.laurenceanthony.net/software/antconc/) - [(tutorial)](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)  
+Projects: 
+- [Vogue - Word embeddings](https://web.archive.org/web/20220105050208/https://www.canva.com/design/DAEkFyjYuoE/tkVh45du5_tFiXxYMljoAw/view?website#2:using-temporal-word-embeddings-to-reveal-the-shifting-notion-of-beauty-in)  
+- [Mining the Distpatch - Topic models](https://dsl.richmond.edu/dispatch/introduction)  
+- [Fan Engagement Meter - Ngrams](http://fanengagement.org/)  
+
+## Day 4: Network Analysis
+
+In our fourth day, we will continue our closer look at digital humanities methods by turning to networks. As with text analysis, we will start by discussing what networks are and when and why they might be useful. We will then create a dynamic network graph using Gephi.
+
+Reading: ["A Primer on Network Analysis"](https://networkofthrones.com/a-primer-on-network-analysis/) 
