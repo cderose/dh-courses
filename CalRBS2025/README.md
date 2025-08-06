@@ -105,3 +105,7 @@ Projects:
 In our fifth day, we will look at what we can do with geographic data, from how we can collect it to ways we might visualize it. As a capstone to our week, we will also discuss how we can share digital projects online.
 
 Reading: ["Searching Maps by Words: How Machine Learning Changes the Way we Explore Map Collections"](https://github.com/cderose/dh-courses/blob/master/CalRBS2025/readings/05_SearchingMaps_Vitale.pdf)  
+Projects: 
+- [Charles Booth's London](https://booth.lse.ac.uk/)  
+- [Photogrammar](https://www.photogrammar.org/maps)  
+- [The Atlas of Early Printing](http://atlas.lib.uiowa.edu/)  
