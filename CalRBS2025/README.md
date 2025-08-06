@@ -64,7 +64,7 @@ Reading: ["Seven Ways Humanists are Using Computers to Understand Text"](https:/
 Slides: [Text Analysis](https://docs.google.com/presentation/d/1E9wMETJmRAbF-HQNWKGlzu7SM1fG2sToX6esW4tTHDo/edit?usp=sharing), [Machine Learning](https://docs.google.com/presentation/d/1CnbEvxnh4hn8QDBDznq_5iHRQYJWS0nQGfae6KQQ98g/edit?usp=sharing)  
 Software: [Stanza](https://stanfordnlp.github.io/stanza/), [Google Colab](https://colab.research.google.com/?utm_source=scs-index)  
 Workshop: [NER tutorial](https://colab.research.google.com/drive/1aBKFJB7zVoQxNxNB3Pt-evDFq9qvaXn_?usp=sharing)  
-Dataset: [jack-delano-photo-caption](https://raw.githubusercontent.com/cderose/dh-courses/master/data/jack-delano.txt), [generated NER] outputs(https://drive.google.com/drive/folders/1jzusMm3YkZJziDdtsvp1y2XHz2IJaIVH?usp=sharing)  
+Dataset: [jack-delano-photo-caption](https://raw.githubusercontent.com/cderose/dh-courses/master/data/jack-delano.txt), [generated NER outputs](https://drive.google.com/drive/folders/1jzusMm3YkZJziDdtsvp1y2XHz2IJaIVH?usp=sharing)  
 
 \- \- \- Follow-up material - - -  
  
