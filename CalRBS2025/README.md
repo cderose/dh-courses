@@ -98,7 +98,8 @@ Software:
 Projects:  
 - [Royal Constellations](https://royalconstellations.visualcinnamon.com/)  
 - [Six Degrees of Francis Bacon](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network)  
-- [The Inner Life of Empires](https://histecon.fas.harvard.edu/innerlife/connections.html)  
+- [The Inner Life of Empires](https://histecon.fas.harvard.edu/innerlife/connections.html)
+- [Kindred Britain](https://kindred.stanford.edu/#)  
 
 ## Day 5: Geospatial Analysis & Publishing
 
