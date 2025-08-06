@@ -79,4 +79,27 @@ Projects:
 
 In our fourth day, we will continue our closer look at digital humanities methods by turning to networks. As with text analysis, we will start by discussing what networks are and when and why they might be useful. We will then create a dynamic network graph using Gephi.
 
-Reading: ["A Primer on Network Analysis"](https://networkofthrones.com/a-primer-on-network-analysis/) 
+Reading: ["A Primer on Network Analysis"](https://networkofthrones.com/a-primer-on-network-analysis/)  
+Slides: [Network Analysis](https://docs.google.com/presentation/d/1LO30M1JxHnIGXOb0Ik99XBDjj09T6hBjgz57Uzo-_Qk/edit?usp=sharing)   
+Software: [Gephi](https://gephi.org/)  
+Workshop:  [Gephi tutorial](https://github.com/cderose/dh-courses/blob/master/CalRBS2025/tutorials/gephi-tutorial.md)  
+Dataset: [networks-rj-nodes.csv and networks-rj-edges.csv](https://drive.google.com/drive/folders/1jzusMm3YkZJziDdtsvp1y2XHz2IJaIVH?usp=sharing)  
+
+\- \- \- Follow-up material - - -  
+
+Readings: 
+- ["Network Theory, Plot Analysis"](https://litlab.stanford.edu/assets/pdf/LiteraryLabPamphlet2.pdf)
+- [The Network Turn](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5)
+  
+Software/Packages: [NetworkX - Python package](https://networkx.org/), [Palladio](https://hdlab.stanford.edu/palladio/)  
+
+Projects:  
+- [Royal Constellations](https://royalconstellations.visualcinnamon.com/)  
+- [Six Degrees of Francis Bacon](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network)  
+- [The Inner Life of Empires](https://histecon.fas.harvard.edu/innerlife/connections.html)  
+
+## Day 5: Geospatial Analysis & Publishing
+
+In our fifth day, we will look at what we can do with geographic data, from how we can collect it to ways we might visualize it. As a capstone to our week, we will also discuss how we can share digital projects online.
+
+*Reading: ["Searching Maps by Words: How Machine Learning Changes the Way we Explore Map Collections"](https://github.com/cderose/dh-courses/blob/master/CalRBS2025/readings/05_SearchingMaps_Vitale.pdf)  
