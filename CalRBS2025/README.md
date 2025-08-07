@@ -112,3 +112,4 @@ Projects:
 - [Charles Booth's London](https://booth.lse.ac.uk/)  
 - [Photogrammar](https://www.photogrammar.org/maps)  
 - [The Atlas of Early Printing](http://atlas.lib.uiowa.edu/)  
+- [The Gossamer Network](https://gossamernetwork.com/)  
