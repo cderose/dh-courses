@@ -112,4 +112,19 @@ Projects:
 - [Charles Booth's London](https://booth.lse.ac.uk/)  
 - [Photogrammar](https://www.photogrammar.org/maps)  
 - [The Atlas of Early Printing](http://atlas.lib.uiowa.edu/)  
-- [The Gossamer Network](https://gossamernetwork.com/)  
+- [The Gossamer Network](https://gossamernetwork.com/)
+
+Slides: [Geospatial Analysis & Sharing our Work](https://docs.google.com/presentation/d/1Q2n9xJbFrdT27qo3EX5TSyKPZD7Ya3coxj6EgUsWOMQ/edit?usp=sharing)    
+Software: [Old Maps Online](https://www.georeferencer.com/), [ArcGIS Online](https://www.arcgis.com/index.html), [StoryMaps](https://storymaps.arcgis.com/)  
+Workshop: [Mapping tutorial](https://github.com/cderose/dh-courses/blob/master/CalRBS2025/tutorials/mapping-tutorial.md)  
+Datasets: [Google drive](https://drive.google.com/drive/folders/1jzusMm3YkZJziDdtsvp1y2XHz2IJaIVH?usp=sharing) (filenames below)  
+- georeferencing-1860map.jpg
+- arcgis-virtalTexts-beautifulSnow.csv
+- storymaps-banner.png
+- storymaps-beautifulSnow.png  
+
+\- \- \- Follow-up material - - -  
+
+Further Reading: ["The Statute of Anne and the Geography of English Printing"](https://earlybookmarket.com/printing-geography.html)   
+Projects: [Machines Reading Maps](https://www.turing.ac.uk/research/research-projects/machines-reading-maps), [Textual Geographies](https://txtgeo.net/query), [Authorial London](https://authorial.stanford.edu/#authors)  
+Tutorial: [Building a Static Website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
