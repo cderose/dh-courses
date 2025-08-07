@@ -1,9 +1,28 @@
 # Mapping tutorial
 
+## Old Maps Online
+[Website](https://www.oldmapsonline.org/en#position=3/42.39/-71.1)
+
+### Upload a map
+- Click on “My maps” and then click "Add a new map"
+- Click "upload an image"
+  After the image loads, you might see a 403 Not Authorized warning. Ignore it and click "Go back", followed by "My maps" again.
+- Click on the loaded map and select “Metadata”.
+- Provide metadata information, accept the site terms, and then check the “Add as a private map” box.
+  The Georeferencer view should open automatically. (If it doesn’t, click on “My maps” and select “Georeferencer” underneath the map image.)
+
+### Georeference the map
+- From the left map, click the “Globe” icon and select a simple basemap.
+- Beginning with the map on the left, click on a spot and then select the corresponding spot on the right to drop pins that link the locations.
+- Continue adding pins. Place them across the map — you want a balance of close and distant points. Keep an eye out for recognizable features.
+- For quality checks along the way, click “Overlay” and toggle the transparency slider.
+- At some point, the tool will start guessing where the matching pin should go. Adjust the suggested location as needed.
+- When you’re finished, click “Save”.
+
 ## ArcGIS Online
+[Website](https://www.arcgis.com/home/index.html)  
 
 Note: If you ever don’t see all appearance options on the right side, make sure you have the correct map layer selected.
-
 
 ### Load data
 - Drag CSV over map
@@ -68,6 +87,7 @@ Note: If you ever don’t see all appearance options on the right side, make sur
 Save your map.
 
 ## StoryMaps
+[Website](https://storymaps.arcgis.com/stories)  
 
 - Click the + sign to add content.  
 If you have a subscription, you can use the embed feature, which would let you bring in your interactive Tableau Public visualizations (you can include the static versions as images for free)
