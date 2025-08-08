@@ -15,15 +15,8 @@ Dataset: [openrefine-doaj.csv](https://drive.google.com/drive/folders/1jzusMm3Yk
 
 \- \- \- Follow-up material - - -  
 
-Reading: 
-- ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
-- ["The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets"](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-- ["Dear Data"](https://www.dear-data.com/theproject)  
-
-Practice:
-- [Programming Historian Lesson on Fetching Data with OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine)  
-- [British Library Workshop](http://www.meanboyfriend.com/overdue_ideas/wp-content/uploads/2014/11/Introduction-to-OpenRefine-handout-CC-BY.pdf)
-- [Library Carpentry OpenRefine](https://librarycarpentry.org/lc-open-refine/)
+Reading: ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989), ["The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets"](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/), ["Dear Data"](https://www.dear-data.com/theproject)  
+Practice: [Programming Historian Lesson on Fetching Data with OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine), [British Library Workshop](http://www.meanboyfriend.com/overdue_ideas/wp-content/uploads/2014/11/Introduction-to-OpenRefine-handout-CC-BY.pdf), [Library Carpentry OpenRefine](https://librarycarpentry.org/lc-open-refine/)  
 
 ## Day 2: Data Visualization
 
@@ -37,24 +30,10 @@ Dataset: [tableau-goodreads.csv](https://drive.google.com/drive/folders/1jzusMm3
 
 \- \- \- Follow-up material - - -  
 
-Reading/Watching: 
-- ["Visualizing Incomplete and Missing Data"](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/)  
-- ["Visualising the Uncertain in Heritage Collections: Understanding, Exploring and Representing Uncertainty in the First World War British Unit War Diaries"](https://www.literarygeographies.net/index.php/LitGeogs/article/view/333?utm_source=chatgpt.com)  
-- [Data Feminism](https://data-feminism.mitpress.mit.edu/)  
-- [Visualization Analysis and Design Lecture](https://www.youtube.com/watch?v=1GhZisgc6DI)  
-
-Projects:
-- [Makeover Monday](https://makeovermonday.co.uk/)   
-- [Data by Design](https://dev.dataxdesign.io/)  
-- [Data Sketches](https://www.datasketch.es/)  
-
-Practice:  
-- [Bonus Tableau tutorial](https://github.com/cderose/dh-courses/blob/master/CalRBS2025/tutorials/extra-tutorials/tableau-bonus.md)  
-- [Tableau Training Videos](https://www.tableau.com/learn/training)  
-
-Software:
-- [Raw Graphs](https://rawgraphs.io/)
-- [Voyant](https://voyant-tools.org/)
+Reading/Watching: ["Visualizing Incomplete and Missing Data"](https://flowingdata.com/2018/01/30/visualizing-incomplete-and-missing-data/), ["Visualising the Uncertain in Heritage Collections: Understanding, Exploring and Representing Uncertainty in the First World War British Unit War Diaries"](https://www.literarygeographies.net/index.php/LitGeogs/article/view/333?utm_source=chatgpt.com), [Data Feminism](https://data-feminism.mitpress.mit.edu/), [Visualization Analysis and Design Lecture](https://www.youtube.com/watch?v=1GhZisgc6DI)  
+Projects: [Makeover Monday](https://makeovermonday.co.uk/), [Data by Design](https://dev.dataxdesign.io/), [Data Sketches](https://www.datasketch.es/)  
+Practice:  [Bonus Tableau tutorial](https://github.com/cderose/dh-courses/blob/master/CalRBS2025/tutorials/extra-tutorials/tableau-bonus.md), [Tableau Training Videos](https://www.tableau.com/learn/training)  
+Software: [Raw Graphs](https://rawgraphs.io/), [Voyant](https://voyant-tools.org/)  
 
 ## Day 3: Text Analysis
 
@@ -70,10 +49,7 @@ Dataset: [jack-delano-photo-caption](https://raw.githubusercontent.com/cderose/d
  
 Software: [Voyant](https://voyant-tools.org/), [Flourish](https://flourish.studio/)  
 Practice: [AntConc](https://www.laurenceanthony.net/software/antconc/) - [(tutorial)](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc)  
-Projects: 
-- [Vogue - Word embeddings](https://web.archive.org/web/20220105050208/https://www.canva.com/design/DAEkFyjYuoE/tkVh45du5_tFiXxYMljoAw/view?website#2:using-temporal-word-embeddings-to-reveal-the-shifting-notion-of-beauty-in)  
-- [Mining the Distpatch - Topic models](https://dsl.richmond.edu/dispatch/introduction)  
-- [Fan Engagement Meter - Ngrams](http://fanengagement.org/)  
+Projects: [Vogue - Word embeddings](https://web.archive.org/web/20220105050208/https://www.canva.com/design/DAEkFyjYuoE/tkVh45du5_tFiXxYMljoAw/view?website#2:using-temporal-word-embeddings-to-reveal-the-shifting-notion-of-beauty-in), [Mining the Distpatch - Topic models](https://dsl.richmond.edu/dispatch/introduction), [Fan Engagement Meter - Ngrams](http://fanengagement.org/)  
 
 ## Day 4: Network Analysis
 
@@ -87,33 +63,16 @@ Dataset: [networks-rj-nodes.csv and networks-rj-edges.csv](https://drive.google.
 
 \- \- \- Follow-up material - - -  
 
-Readings: 
-- ["Network Theory, Plot Analysis"](https://litlab.stanford.edu/assets/pdf/LiteraryLabPamphlet2.pdf)
-- [The Network Turn](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5)
-  
-Software: 
-- [NetworkX - Python package](https://networkx.org/)  
-- [Palladio](https://hdlab.stanford.edu/palladio/)  
-
-Projects:  
-- [Royal Constellations](https://royalconstellations.visualcinnamon.com/)  
-- [Six Degrees of Francis Bacon](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network)  
-- [The Inner Life of Empires](https://histecon.fas.harvard.edu/innerlife/connections.html)  
-- [Victoria Press Circle](https://www.victoriapresscircle.org/graphs)  
-- [Kindred Britain](https://kindred.stanford.edu/#)  
+Readings: ["Network Theory, Plot Analysis"](https://litlab.stanford.edu/assets/pdf/LiteraryLabPamphlet2.pdf), [The Network Turn](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5)    
+Software: [NetworkX - Python package](https://networkx.org/), [Palladio](https://hdlab.stanford.edu/palladio/)  
+Projects: [Royal Constellations](https://royalconstellations.visualcinnamon.com/), [Six Degrees of Francis Bacon](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network), [The Inner Life of Empires](https://histecon.fas.harvard.edu/innerlife/connections.html), [Victoria Press Circle](https://www.victoriapresscircle.org/graphs), [Kindred Britain](https://kindred.stanford.edu/#)  
 
 ## Day 5: Geospatial Analysis & Publishing
 
 In our fifth day, we will look at what we can do with geographic data, from how we can collect it to ways we might visualize it. As a capstone to our week, we will also discuss how we can share digital projects online.
 
 Reading: ["Searching Maps by Words: How Machine Learning Changes the Way we Explore Map Collections"](https://github.com/cderose/dh-courses/blob/master/CalRBS2025/readings/05_SearchingMaps_Vitale.pdf)  
-
-Projects: 
-- [Charles Booth's London](https://booth.lse.ac.uk/)  
-- [Photogrammar](https://www.photogrammar.org/maps)  
-- [The Atlas of Early Printing](http://atlas.lib.uiowa.edu/)  
-- [The Gossamer Network](https://gossamernetwork.com/)
-
+Projects: [Charles Booth's London](https://booth.lse.ac.uk/), [Photogrammar](https://www.photogrammar.org/maps), [The Atlas of Early Printing](http://atlas.lib.uiowa.edu/), [The Gossamer Network](https://gossamernetwork.com/)  
 Slides: [Geospatial Analysis & Sharing our Work](https://docs.google.com/presentation/d/1Q2n9xJbFrdT27qo3EX5TSyKPZD7Ya3coxj6EgUsWOMQ/edit?usp=sharing)    
 Software: [Old Maps Online](https://www.georeferencer.com/), [ArcGIS Online](https://www.arcgis.com/index.html), [StoryMaps](https://storymaps.arcgis.com/)  
 Workshop: [Mapping tutorial](https://github.com/cderose/dh-courses/blob/master/CalRBS2025/tutorials/mapping-tutorial.md)  
